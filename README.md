@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreeyansh Das</h1>
-<h3 align="center">A passionate AI Engineer and Data Scientist from India</h3>
+<h3 align="center">AI Engineer and Data Scientist with hands-on experience in Natural Language Processing and Computer Vision. 
+Experienced in designing AI-driven solutions across healthcare, logistics, and surveillance domains. Experience in 
+developing systems that combine deep learning, prompt engineering, and real-time data. Passionate about solving 
+operational bottlenecks through modular, production-grade AI systems.</h3>
 
 - 🔭 I’m currently working on **a local-first Deep Research Assistant**
 
