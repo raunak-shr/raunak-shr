@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeyansh Das</h1>
-<h2 align="center">📁<a href="https://shreeyansh.vercel.app">Portfolio</a></h2>
+<h2 align="center">📁<a href="https://shrdas.com">Portfolio</a></h2>
 <h3 align="center">AI Engineer and Data Scientist with hands-on experience in Natural Language Processing and Computer Vision. 
 Experienced in designing AI-driven solutions across healthcare, logistics, and surveillance domains. Experience in 
 developing systems that combine deep learning, prompt engineering, and real-time data. Passionate about solving 
